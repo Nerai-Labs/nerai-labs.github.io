@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Home - Open PRO",
-  description: "Page description",
+  description: "Conocé las carreras de grado y posgrados del ITBA, especializado en Tecnología, Ingeniería y Gestión, con más de 11.000 graduados.",
 };
 
 import PageIllustration from "@/components/page-illustration";
