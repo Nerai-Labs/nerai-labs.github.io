@@ -2,7 +2,7 @@ User-agent: GPTBot
 Disallow: /
 
 User-agent: OAI-SearchBot
-Disallow: /
+Allow: /
 
 User-agent: *
 Allow: /
