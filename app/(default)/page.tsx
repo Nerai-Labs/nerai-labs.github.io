@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Open PRO: AI tools for product teams",
-  description: "Conocé las carreras de grado y posgrados del ITBA, especializado en Tecnología, Ingeniería y Gestión, con más de 11.000 graduados.",
+  description: "Open is a free React / Next.js landing page template for developers, built with Tailwind CSS. Explore the live demo, design files and setup guide.",
 };
 
 import PageIllustration from "@/components/page-illustration";
