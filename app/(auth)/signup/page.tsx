@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Sign Up - Open PRO",
-  description: "Page description",
+  description: "Create your Open PRO account for AI tools built for product teams. Enter your name, company name, work email and password to register.",
 };
 
 import Link from "next/link";
