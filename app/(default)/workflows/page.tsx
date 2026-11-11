@@ -53,19 +53,19 @@ export default function Workflows() {
             <h2 className="font-nacelle text-2xl font-semibold text-gray-200">The people you will work with</h2>
             <div className="mt-8 grid gap-8 md:grid-cols-3">
               <figure>
-                <img src="/images/testimonial-01.jpg" alt="MaKayla P., product lead" width="36" height="36" className="rounded-full" />
+                <img src="/images/testimonial-01.jpg" width="36" height="36" className="rounded-full" />
                 <figcaption className="mt-2 text-indigo-200/65">
                   MaKayla P., product lead. She runs the planning call and writes your scope.
                 </figcaption>
               </figure>
               <figure>
-                <img src="/images/testimonial-02.jpg" alt="Andrew K., engineering lead" width="36" height="36" className="rounded-full" />
+                <img src="/images/testimonial-02.jpg" width="36" height="36" className="rounded-full" />
                 <figcaption className="mt-2 text-indigo-200/65">
                   Andrew K., engineering lead. He ships each cycle to your preview link.
                 </figcaption>
               </figure>
               <figure>
-                <img src="/images/testimonial-03.jpg" alt="Lucy D., data analyst" width="36" height="36" className="rounded-full" />
+                <img src="/images/testimonial-03.jpg" width="36" height="36" className="rounded-full" />
                 <figcaption className="mt-2 text-indigo-200/65">
                   Lucy D., data analyst. She builds the dashboard you get after the release.
                 </figcaption>
